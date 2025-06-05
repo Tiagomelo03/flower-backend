@@ -15,7 +15,7 @@ app.use((req, res, next) => {
     'http://localhost:4200',
     'capacitor://localhost',
     'http://localhost:8080',
-    'https://391c-2001-8a0-dd04-600-ec9a-10ee-1f97-8207.ngrok-free.app'
+    'https://flower-backend-7vpg.onrender.com'
   ];
   const origin = req.headers.origin;
 
